@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[adventura foundation]]></title>
+        <description><![CDATA[adventura foundation]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 18:55:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[adventura foundation]]></title>
+            <description><![CDATA[<article><h1>adventura foundation</h1><p>The adventura foundation</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02549bdb-c3fa-4773-9c96-282ef4386820.jpg"></article>]]></description>
+            <link>undefinedadventura-foundation/index.html</link>
+            <guid isPermaLink="false">d25d6bd6-9400-4be3-ad56-fcaf11beefa0</guid>
+            <pubDate>Thu, 07 Jul 2016 18:54:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
