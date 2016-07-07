@@ -1,3 +1,7 @@
+name: adventura foundation
+favicon: null
+layout_spectrum: 0.6815252
+typography_spectrum: 0.4065521
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4065521
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0.480666
-  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#006893'
     - '#030303'
     - '#94BFD1'
     - '#5C9EBA'
+  brandStrength: 0.625
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0.2400644
-layout_spectrum: 0.6815252
-name: adventura foundation
+purpose: []
